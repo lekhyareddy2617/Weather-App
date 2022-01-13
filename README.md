@@ -19,4 +19,4 @@ On giving permission to identify location:
 
 Search bar functionality:
 
-![image](https://user-images.githubusercontent.com/78945792/149374294-ee47f65b-67d1-4a81-a846-f8da8956c4a5.png)
+![image](https://user-images.githubusercontent.com/78945792/149375324-56a5c5ca-2f9c-462e-80ef-977bacc7b46d.png)
