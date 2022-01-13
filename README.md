@@ -5,9 +5,9 @@ This application created using Javascript can detect the users' location and out
 Additionally, the background image changes as per the result of the weather.
 
 APIs used:
-++ For detecting the location: OpenCage Geocoding API (https://opencagedata.com/tutorials/geocode-in-javascript)
-++ To obtain weather: OpenWeatherMap Weather API (https://openweathermap.org/api)
-++ Background image on the basis of weather: Unsplash API (https://unsplash.com/documentation)
+* For detecting the location: OpenCage Geocoding API (https://opencagedata.com/tutorials/geocode-in-javascript)
+* To obtain weather: OpenWeatherMap Weather API (https://openweathermap.org/api)
+* Background image on the basis of weather: Unsplash API (https://unsplash.com/documentation)
 
 Starting Page:
 
